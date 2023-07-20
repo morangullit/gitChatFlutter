@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A small chat with the purpose of an answer with an image of a "Yes" or a "No"
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
